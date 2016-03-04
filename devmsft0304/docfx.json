@@ -3,7 +3,11 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.html",
+          "**/*.css",
+          "_themes/**"
         ],
         "exclude": [
           "**/obj/**",
