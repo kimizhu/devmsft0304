@@ -16,8 +16,7 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "**"
         ],
         "exclude": [
           "**/obj/**",
